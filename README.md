@@ -1,7 +1,6 @@
 # Generic entry in Medicare Part D — reproducible pipeline
 
-Target journal (rank 1): Therapeutic Innovation & Regulatory Science (Springer/DIA), Research Article.
-Fallbacks: Expert Rev Pharmacoecon Outcomes Res → Health Economics Review → J Pharm Health Serv Res.
+Target journal : Therapeutic Innovation & Regulatory Science (Springer/DIA), Research Article.
 
 ## Reproduce
 ```
